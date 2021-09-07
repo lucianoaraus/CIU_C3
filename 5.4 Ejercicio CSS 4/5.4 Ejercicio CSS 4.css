@@ -1,0 +1,28 @@
+.imperio {
+    background-color: red;
+}
+
+#papa_oso {
+    font-size: 32px;
+}
+
+.rebeldes {
+    background-color: blue;
+}
+
+#mama_oso {
+    font-style: italic;
+}
+
+.soldado {
+    border-style: dashed;
+    letter-spacing: 4px;
+}
+
+.apoyo {
+    text-align: center;
+}
+
+.naves {
+    text-transform: uppercase;
+}
